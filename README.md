@@ -1,9 +1,4 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Fawn" />
-
-  &#xa0;
-
-  <!-- <a href="https://fawn.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Fawn</h1>
